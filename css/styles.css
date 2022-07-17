@@ -46,6 +46,12 @@ p {
     box-shadow: none;
 }
 
+/************* CARD **************/
+.card {
+    max-width: 700px;
+    margin: 20vh auto 0 auto;
+}
+
 /********** GRID STYLES **********/
 
 .item1 {
@@ -107,6 +113,12 @@ p {
 /*** Note: changed the break point from 375px to 530px because it made more sense. ***/
 
 @media (max-width: 530px) {
+
+    .card {
+        max-width: 700px;
+        margin: 8vh auto 0 auto;
+    }
+
     .grid-container {
         grid-template-areas:
         'header header header header header header'
