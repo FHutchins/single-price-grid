@@ -35,8 +35,8 @@ Above is my solution to the challenge. The design is responsive and was made via
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Solution Page](https://www.frontendmentor.io/solutions/single-price-grid-component-solution-uX04H48C5r)
+- Live Site URL: [GitHub - Live Site](https://fhutchins.github.io/single-price-grid/)
 
 ## My process
 
